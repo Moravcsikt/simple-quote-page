@@ -1,2 +1,2 @@
 # simple-quote-page
-Egy új repository
+A new repository
